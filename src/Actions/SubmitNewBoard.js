@@ -4,6 +4,7 @@ import {
 } from './ActionTypes';
 import Store from './../Store';
 
+
 export default function submitNewBoard(title) {
     return dispatch => {
 
